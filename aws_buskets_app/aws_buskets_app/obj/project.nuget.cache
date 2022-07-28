@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tTiHSgMi0pYn78anSEkoGqmjSZbnmbcQ7IMwr7fmx8pcyXBAfIlg++XQpJ9O8nPby+1vvYY1cqzDTwiTfbBBpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\aws_buskets_app\\aws_buskets_app\\aws_buskets_app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\awssdk.core\\3.7.12.13\\awssdk.core.3.7.12.13.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\awssdk.s3\\3.7.9.30\\awssdk.s3.3.7.9.30.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
